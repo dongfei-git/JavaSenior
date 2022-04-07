@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior.iml" filepath="$PROJECT_DIR$/JavaSenior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d01_Multithreading/d01_Multithreading.iml" filepath="$PROJECT_DIR$/d01_Multithreading/d01_Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d02_CommonClass/d02_CommonClass.iml" filepath="$PROJECT_DIR$/d02_CommonClass/d02_CommonClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d03_DataTime/d03_DataTime.iml" filepath="$PROJECT_DIR$/d03_DataTime/d03_DataTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d04_Enum/d04_Enum.iml" filepath="$PROJECT_DIR$/d04_Enum/d04_Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d05_Annotation/d05_Annotation.iml" filepath="$PROJECT_DIR$/d05_Annotation/d05_Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d06_CollectionAndMap/d06_CollectionAndMap.iml" filepath="$PROJECT_DIR$/d06_CollectionAndMap/d06_CollectionAndMap.iml" />
+    </modules>
+  </component>
+</project>
